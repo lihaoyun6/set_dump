@@ -3,8 +3,7 @@
 Find the ID of each setting item and its options from BIOS file.  
 
 ### Dependencies
-[UEFIExtract](https://github.com/LongSoft/UEFITool/releases) from LongSoft  
-[UEFIFind](https://github.com/LongSoft/UEFITool/releases) from LongSoft  
+[UEFIExtract & UEFIFind](https://github.com/LongSoft/UEFITool/releases) from LongSoft  
 [ifrextract](https://github.com/LongSoft/Universal-IFR-Extractor/releases) from LongSoft  
 
 ### Usage
