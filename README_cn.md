@@ -1,6 +1,7 @@
 # set_dump  
 [English](./README.md)  
-此脚本用于从BIOS固件文件中查找包含指定名称的设置项及其各选项的ID值.  
+用于从BIOS固件文件中查找包含指定名称的设置项及其各选项的ID值.  
+(此脚本仅用于macOS系统)
 
 ### 依赖项目
 [UEFIExtract 和 UEFIFind](https://github.com/LongSoft/UEFITool/releases)  
