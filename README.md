@@ -1,5 +1,5 @@
 # set_dump
-[简体中文]()  
+[简体中文](./README_cn.md)  
 Find the ID of each setting item and its options from BIOS file.
 ````
 usage: set_dump file keyword [mode(Default: a)]
